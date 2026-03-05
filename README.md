@@ -15,15 +15,6 @@
 <a href="mailto:cdr@cdr2.com">
 <img src="https://img.shields.io/badge/cdr%40cdr2.com-00ff66?style=for-the-badge&labelColor=0a0f14" />
 </a>
-
-<br/><br/>
-
-<a href="https://github.com/chrisrobison?tab=followers">
-<img src="https://img.shields.io/github/followers/chrisrobison?style=for-the-badge&label=Followers&labelColor=0a0f14&color=00ff66"/>
-</a>
-
-<img src="https://komarev.com/ghpvc/?username=chrisrobison&style=for-the-badge&color=00ff66&label=PROFILE+VIEWS"/>
-
 </div>
 
 ---
