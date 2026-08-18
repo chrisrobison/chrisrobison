@@ -44,22 +44,6 @@ Experimental tools
 
 ---
 
-# live telemetry
-
-<div align="center">
-
-<a href="https://github.com/chrisrobison">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=chrisrobison&show_icons=true&hide_border=true&bg_color=0a0f14&title_color=00ff66&text_color=c9d1d9&icon_color=00ff66"/>
-</a>
-
-<a href="https://github.com/chrisrobison">
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrisrobison&layout=compact&hide_border=true&bg_color=0a0f14&title_color=00ff66&text_color=c9d1d9"/>
-</a>
-
-</div>
-
----
-
 # the grid feeds the serpent
 
 <div align="center">
