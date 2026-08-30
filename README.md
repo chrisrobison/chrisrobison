@@ -30,19 +30,29 @@ I’m happiest at the intersection of **software architecture, product thinking,
 
 ## Selected work
 
+### 🕸️ [TextWeb](https://github.com/chrisrobison/textweb)
+A **text-grid web renderer for AI agents**. Instead of pushing screenshots through vision models, TextWeb runs a real Chromium browser and turns rendered pages into compact structured text while preserving spatial layout and annotating interactive elements.
+
+It supports CLI use, Node.js, HTTP, MCP, function calling, LangChain, CrewAI, persistent browser sessions, ATS workflows, and interactive browser control. Published on npm and used well beyond my own projects.
+
 ### 🎛️ [Panic Backstage](https://github.com/chrisrobison/panic-backstage)
 A venue operating system covering the full **inquiry → booking → contract → production → ticketing → settlement** lifecycle.
 
 Built as an API-first, multi-tenant application with PHP 8, MySQL, native Web Components, WebAuthn/passkeys, background jobs, CRM, contracts/e-signature, event syndication, marketing workflows, notifications, reporting, and operational tooling — without requiring a frontend build pipeline.
 
-### 🧠 [agent-orchestrator](https://github.com/chrisrobison/agent-orchestrator)
-A browser-only multi-agent framework using **WebLLM + WebGPU**, with SharedWorker-hosted models, agent orchestration, streaming generation, cancellation, telemetry, and Web Component-based visualization. No application backend required.
+### 🧩 [U2OS](https://github.com/chrisrobison/u2os)
+A modular, API-first operating-system foundation for service businesses: reusable kernel, capability packages, pluggable MySQL/Postgres/SQLite connectors, tenant isolation, realtime WebSocket events, composable solution manifests, authentication/authorization, and a dynamic application runtime.
+
+The idea is simple: one solid business platform, many vertical products.
+
+### 🧠 [MindGraph AI](https://github.com/chrisrobison/mindgraph)
+A browser-native visual workbench for modeling and executing operational AI workflows. It includes typed graph semantics, execution planning, dependency analysis, retries, cancellation, runtime traces, schema migrations, provider integration, and a framework-free Web Component UI.
 
 ### 🎸 [BandBrief](https://github.com/chrisrobison/bandbrief)
 A deterministic artist intelligence system that aggregates and normalizes data from Spotify, Last.fm, MusicBrainz, Wikipedia/Wikidata, Reddit, Bandcamp, Bandsintown, and other sources to produce booking-oriented artist reports.
 
-### 🤖 [cv2job](https://github.com/chrisrobison/cv2job)
-An agentic AI job-search assistant exploring how software can turn a résumé, job data, research, and automation into a more useful job-hunting workflow.
+### 📡 [PAN](https://github.com/chrisrobison/pan)
+A small DOM-native message bus for Web Components and micro-frontends. Loosely coupled browser communication, no framework and no build step required.
 
 ---
 
@@ -84,11 +94,11 @@ Teams that understand the business problem, not just the ticket
 
 ## A few older / stranger corners of the workshop
 
-My GitHub is intentionally a bit of a garage rather than a showroom. There are experiments, old forks, prototypes, tiny utilities, half-finished ideas, games, visualization projects, browser hacks, audio experiments, and hardware-adjacent work accumulated over many years.
+My GitHub is a workshop, not a showroom. It contains experiments, prototypes, games, visualization projects, browser hacks, hardware work, and the archaeological layers of several generations of web development.
 
-That mess is partly the point: I like learning by building things.
+I like learning by building things. Some projects became products; some answered one question and were done; some should probably be wearing a little museum placard by now.
 
-If you’re evaluating me for work, start with the projects above rather than assuming the alphabetical repository list represents my current focus. 🙂
+If you’re evaluating my current work, start with the projects above rather than the alphabetical repository list. 🙂
 
 ---
 
