@@ -41,9 +41,9 @@ A venue operating system covering the full **inquiry → booking → contract �
 Built as an API-first, multi-tenant application with PHP 8, MySQL, native Web Components, WebAuthn/passkeys, background jobs, CRM, contracts/e-signature, event syndication, marketing workflows, notifications, reporting, and operational tooling — without requiring a frontend build pipeline.
 
 ### 🧩 [U2OS](https://github.com/chrisrobison/u2os)
-A modular, API-first operating-system foundation for service businesses: reusable kernel, capability packages, pluggable MySQL/Postgres/SQLite connectors, tenant isolation, realtime WebSocket events, composable solution manifests, authentication/authorization, and a dynamic application runtime.
+The **operating system for your digital self**. Who you are, the people and projects in your life, and what you've promised live in a **vault of plain Markdown files you own**. U2OS indexes that vault, watches the accounts you connect, and runs the routines you write, acting on your behalf within the authority you delegate.
 
-The idea is simple: one solid business platform, many vertical products.
+Every action passes through a policy engine outside the model (allow, ask me, or block), with a durable queue, audit trail, and "Why?" explanations. The model is replaceable infrastructure; the files are the self. Node.js, SQLite as an index, MCP tools, and a browser client with no build step.
 
 ### 🧠 [MindGraph AI](https://github.com/chrisrobison/mindgraph)
 A browser-native visual workbench for modeling and executing operational AI workflows. It includes typed graph semantics, execution planning, dependency analysis, retries, cancellation, runtime traces, schema migrations, provider integration, and a framework-free Web Component UI.
